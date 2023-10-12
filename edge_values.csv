@@ -1,0 +1,20 @@
+EDGE ranking;ED ranking;Species;ED;IUCN;GE (ISAAC);EDGE (ISAAC);ER (IUCN50);EDGE (IUCN50);SDM EDGE (IUCN50)
+1;1;Chamaecrista aristata;5,967;EN;3;4,0206;0,42;0,9187;1,254516
+2;2;Chamaecrista simplifacta;5,168;EN;3;3,8988;0,42;0,775;1,153908
+3;3;Chamaecrista burchellii;3,005;EN;3;3,467;0,42;0,2328;0,816294
+4;7;Chamaecrista cinerascens;1,509;EN;3;2,9993;0,42;-0,4561;0,490896
+5;8;Chamaecrista anceps;1,461;EN;3;2,98;0,42;-0,4884;0,47848
+5;8;Chamaecrista distichoclada;1,461;EN;3;2,98;0,42;-0,4884;0,47848
+6;9;Chamaecrista multinervia;1,302;EN;3;2,9132;0,42;-0,6036;0,436214
+7;10;Chamaecrista lagotois;1,255;EN;3;2,8926;0,42;-0,6404;0,423371
+7;10;Chamaecrista ulmea;1,255;EN;3;2,8926;0,42;-0,6404;0,423371
+8;6;Chamaecrista latifolia;1,684;VU;2;2,3736;0,05;-2,4746;0,080842388
+8;6;Chamaecrista rossicorum;1,684;VU;2;2,3736;0,05;-2,4746;0,080842
+9;8;Chamaecrista olesiphylla;1,446;VU;2;2,2807;0,05;-2,6269;0,069806
+10;4;Chamaecrista tragacanthoides;1,871;LC;0;1,0547;0,00005;-9,277;0,000094
+11;5;Chamaecrista choriophylla;1,711;LC;0;0,9973;0,00005;-9,3664;0,000086
+12;8;Chamaecrista cardiostegia;1,446;LC;0;0,8945;0,00005;-9,5347;0,000072
+13;9;Chamaecrista mucronata;1,302;LC;0;0,8338;0,00005;-9,6396;0,000065
+14;11;Chamaecrista rotundata;1,182;LC;0;0,7802;0,00005;-9,7363;0,000059
+15;12;Chamaecrista arrojadoana;0,788;LC;0;0,5811;0,00005;-10,1417;0,000039
+15;12;Chamaecrista potentilla;0,788;LC;0;0,5811;0,00005;-10,1417;0,000039
