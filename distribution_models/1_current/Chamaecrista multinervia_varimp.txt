@@ -1,0 +1,15 @@
+An object of class ".varImportance"
+Slot "variables":
+[1] "bio_10.tif" "bio_15.tif" "bio_16.tif" "bio_17.tif" "bio_3.tif"  "bio_4.tif"  "bio_8.tif"  "bio_9.tif" 
+
+Slot "varImportance":
+            variables corTest AUCtest
+bio_10.tif bio_10.tif  0.1902  0.0010
+bio_15.tif bio_15.tif  0.0635  0.0046
+bio_16.tif bio_16.tif  0.6924  0.1004
+bio_17.tif bio_17.tif  0.4705  0.0130
+bio_3.tif   bio_3.tif  0.9874  0.4222
+bio_4.tif   bio_4.tif  0.0004  0.0002
+bio_8.tif   bio_8.tif  0.0234  0.0030
+bio_9.tif   bio_9.tif  0.8728  0.2716
+
